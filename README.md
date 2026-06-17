@@ -31,6 +31,7 @@ git clone https://github.com/rachitries/result-management-system.git
 cd result-management-system
 python result_management_system.py
 ```
+or download result_management_system.exe
 
 ## 📚 Concepts Used
 
