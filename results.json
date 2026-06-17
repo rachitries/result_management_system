@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Rachit",
+        "Physics": 98,
+        "Chemistry": 99,
+        "Mathematics": 100,
+        "Total Marks": 297,
+        "Total Percentage": "99.00",
+        "Grade": "A+",
+        "Status": "Pass"
+    },
+    {
+        "Name": "Shivanshu Gangwar",
+        "Physics": 75,
+        "Chemistry": 57,
+        "Mathematics": 66,
+        "Total Marks": 198,
+        "Total Percentage": "66.00",
+        "Grade": "C",
+        "Status": "Pass"
+    }
+]
